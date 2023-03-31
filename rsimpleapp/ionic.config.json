@@ -1,0 +1,7 @@
+{
+  "name": "rsimpleapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
