@@ -1,7 +1,0 @@
-{
-  "name": "ionic_week4_simpleapp",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular"
-}
